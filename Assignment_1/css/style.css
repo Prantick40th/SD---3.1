@@ -1,0 +1,81 @@
+h1
+{
+font-weight: lighter;
+font-size: 260%
+
+}
+
+.mind_div {
+	width: 30%;
+	margin: 1.66%;
+	float:left;
+    border: 1px;
+}
+.mind_image {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+
+.police_div {
+	width: 30%;
+	margin: 1.66%;
+	float:left;
+    border: 1px;
+}
+.police_image {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+.glass_div {
+	width: 30%;
+    margin: 1.66%;
+	float:left;
+    border: 1px;
+}
+.glass_image {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
+
+.mustache_div {
+	width: 30%;
+	margin: 1.66%;
+	float:left;
+    border: 1px;
+}
+.mustache_image {
+	height: 100%;
+	width: 100%;
+	display: block;
+
+}
+
+.leaf_div {
+	width: 30%;
+	margin: 1.66%;
+	float:left;
+    border: 1px;
+}
+.leaf_image {
+	height: 100%;
+	width: 100%;
+	display: block;
+
+}
+
+.sheild_div {
+	width: 30%;
+    margin: 1.66%;
+	float:left;
+    border: 1px;
+}
+.sheild_image {
+	height: 100%;
+	width: 100%;
+	display: block;
+}
